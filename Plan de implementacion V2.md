@@ -1,4 +1,4 @@
-# 🟠🔴🩷 BLUEPRINT MAESTRO DE INGENIERÍA - RAPPI CARLOS
+# 🟠🔴 Promt - RAPPI CARLOS
 > **Documento Maestro de Arquitectura** | ID Proyecto: `rappi-carlos` | Org: `cbtis128.edu.mx`  
 > **Rol:** Lead Software Architect & Staff Engineer  
 > **Stack:** Flutter/Dart • Firebase • Clean Architecture • MultiProvider  

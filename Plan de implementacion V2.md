@@ -1,4 +1,4 @@
-# 🟠🔴🟡 PLAN DE IMPLEMENTACIÓN "RAPPI SPIRIT" (PROYECTO DE GRADO)
+# 🟠🔴🟡 PLAN DE IMPLEMENTACIÓN "RAPPI" (PROYECTO DE GRADO)
 > **Mentoría:** Enfoque académico, funcional y mantenible. Sin sobre-ingeniería. Buenas prácticas aplicadas a nivel de estudiante avanzado.
 
 ---
